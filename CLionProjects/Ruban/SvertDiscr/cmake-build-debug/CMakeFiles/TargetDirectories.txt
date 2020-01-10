@@ -1,0 +1,3 @@
+/home/vladimir/CLionProjects/Ruban/SvertDiscr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vladimir/CLionProjects/Ruban/SvertDiscr/cmake-build-debug/CMakeFiles/SvertDiscr.dir
+/home/vladimir/CLionProjects/Ruban/SvertDiscr/cmake-build-debug/CMakeFiles/edit_cache.dir

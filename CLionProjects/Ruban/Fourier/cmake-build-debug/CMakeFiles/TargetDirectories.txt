@@ -1,0 +1,3 @@
+/home/vladimir/CLionProjects/Ruban/Fourier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vladimir/CLionProjects/Ruban/Fourier/cmake-build-debug/CMakeFiles/Fourier.dir
+/home/vladimir/CLionProjects/Ruban/Fourier/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/vladimir/CLionProjects/Ruban/Dijkstra_and_FordBellman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vladimir/CLionProjects/Ruban/Dijkstra_and_FordBellman/cmake-build-debug/CMakeFiles/Dijkstra.dir
+/home/vladimir/CLionProjects/Ruban/Dijkstra_and_FordBellman/cmake-build-debug/CMakeFiles/edit_cache.dir

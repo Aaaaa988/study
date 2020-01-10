@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladimir/CLionProjects/Ruban/Sorts/lib.h
+iostream
+-
+string
+-
+
+/home/vladimir/CLionProjects/Ruban/Sorts/main.cpp
+iostream
+-
+lib.h
+/home/vladimir/CLionProjects/Ruban/Sorts/lib.h
+

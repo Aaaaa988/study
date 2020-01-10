@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FastMulti.dir/main.cpp.o CMakeFiles/FastMulti.dir/FastAlgoritmh.cpp.o  -o FastMulti 

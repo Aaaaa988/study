@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/RGZ.dir/main.cpp.o  -o RGZ 

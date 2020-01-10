@@ -1,0 +1,3 @@
+/home/vladimir/CLionProjects/Ruban/MultiMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vladimir/CLionProjects/Ruban/MultiMatrix/cmake-build-debug/CMakeFiles/MultiMatrix.dir
+/home/vladimir/CLionProjects/Ruban/MultiMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir

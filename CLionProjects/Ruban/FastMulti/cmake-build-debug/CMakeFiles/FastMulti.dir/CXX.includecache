@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladimir/CLionProjects/Ruban/FastMulti/FastAlgoritmh.cpp
+FastAlgoritmh.h
+/home/vladimir/CLionProjects/Ruban/FastMulti/FastAlgoritmh.h
+
+/home/vladimir/CLionProjects/Ruban/FastMulti/FastAlgoritmh.h
+iostream
+-
+

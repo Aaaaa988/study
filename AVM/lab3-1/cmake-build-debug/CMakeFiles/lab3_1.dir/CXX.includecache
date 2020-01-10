@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladimir/AVM/lab3-1/main.cpp
+iostream
+-
+chrono
+-
+ctime
+-
+math.h
+-
+sys/time.h
+-
+chrono
+-
+vector
+-
+iostream
+-
+iomanip
+-
+cmath
+-
+ctime
+-
+sys/time.h
+-
+
